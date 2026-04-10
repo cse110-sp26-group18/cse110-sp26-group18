@@ -7,12 +7,12 @@
 - [x] Aila Jahromi
 - [x] Olivia Sun
 - [x] Ajay Anbolu
-- [] Anvay Patil
+- [ ] Anvay Patil
 - [x] Ayat Alwazir
 - [x] Brendan Nguyen
 - [x] Daniel John
 - [x] Horward Guan
-- [] Solaiman Alwazir
+- [ ] Solaiman Alwazir
 - [x] Tim Nguyen
 
 ## Meeting Place & Time

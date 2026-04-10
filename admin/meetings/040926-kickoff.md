@@ -4,16 +4,16 @@
 
 ## Members
 
-[x] Aila Jahromi
-[x] Olivia Sun
-[x] Ajay Anbolu
-[] Anvay Patil
-[x] Ayat Alwazir
-[x] Brendan Nguyen
-[x] Daniel John
-[x] Horward Guan
-[] Solaiman Alwazir
-[x] Tim Nguyen
+- [x] Aila Jahromi
+- [x] Olivia Sun
+- [x] Ajay Anbolu
+- [] Anvay Patil
+- [x] Ayat Alwazir
+- [x] Brendan Nguyen
+- [x] Daniel John
+- [x] Horward Guan
+- [] Solaiman Alwazir
+- [x] Tim Nguyen
 
 ## Meeting Place & Time
 We had a meeting at sixth food courts at 6:30pm - 8pm

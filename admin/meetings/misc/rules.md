@@ -33,3 +33,4 @@
 - Maintain high responsiveness and engagement within the workspace.
 - Use appropriate Slack channels for specific topics to keep the entire team informed.
 - Provide accurate availability on when2meet to accommodate scheduling for a large team.
+- 

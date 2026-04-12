@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /admin/team/
+---
+
 # The Pandalorians <img width="40" alt="IMG_3825-removebg-preview" src="https://github.com/user-attachments/assets/7a94b09d-28e6-4a50-882e-28124e0a03c3" />
 
 ![quote](https://img.shields.io/badge/“This_is_the_Way.”-7BB661?style=for-the-badge)  

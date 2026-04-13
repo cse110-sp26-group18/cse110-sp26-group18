@@ -23,7 +23,7 @@
 - Howard: Focuses on improving coding proficiency and handling video generation.
 - Aila: Focuses on front-end design and general web development.
 - Anvay: Prefers coding and front-end development.
-- Solaiman - Prefers coding, brings experience on Github
+- Solaiman: Prefers coding, brings experience on Github
 
 ### Issue and Conflict Resolution
 - Address conflicts directly and respectfully, or consult Olivia or Aila for mediation.

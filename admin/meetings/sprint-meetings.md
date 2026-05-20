@@ -3,7 +3,7 @@
 ## Table of Contents  
 * [5/7](#5/7)
 * [5/12](#5/12)
-* 
+* [5/14](#5/14)
 
 <a id="5/7"></a>
 ## Sprint Meeting 1: 5/7 (6:20 PM – 6:45 PM)
@@ -100,5 +100,40 @@ Members:
 - Olivia 
 - Howard
 - Brendan 
+
+---
+
+<a id="5/14"></a>
+## Sprint Meeting 3: 5/14 (6:20 PM – 6:40 PM)
+
+#### Summary
+- Communicated about Slack notifications and making sure everyone is keeping themselves responsible for all upcoming assignments
+  - Make sure your slack notification is ON and set for RECEIVING them until 12am (we need to be able to reach you when it’s time sensitive)
+- We should have a standard AI Document as discussed by professor in class today
+
+### Blockers 
+- Ayat: There was an issue in PR that was not passing the tests
+  - Solaiman fixed it so now it should be 
+
+
+
+### Action Items 
+- Meeting with the professor: Should go to office hours 
+  - 2-4 Wednesady. Can possibly go: Daniel, Ajay, Olivia
+  - Show him v3 which will be in progress by then and ask for feedback, advice on how to prioritze features
+  - Add questions we have for him [here](https://docs.google.com/document/d/1ho3q1O_Wazc8wzsk3OI7YoesBMPiLW6-WNoaDigIgoA/edit?tab=t.f964dar9qypo) 
+
+#### Individual Responsibility
+- Everyone contribute to [AI standard documentation](https://docs.google.com/document/d/1P5eOXXDR3PsoBVFp4uzcC5guoWNm4XAH_Vw1BdtXAtU/edit?tab=t.0)
+  - contribute at least 2 notes
+- Keep working on issues and features and feel free to open PR to check for errors and tests but we will review everything to pull everything into main on sunday meeting
+- Review [rubric](rubric link). Have a strong understanding of what needs to get done.
+
+
+### Tasks to Complete
+- Think of the pipeline we want to follow so that the workflow is very straightforward (CI pipeline built via Github Actions) 
+- Architectural diagram of the project (will be discussed in Sunday meeting)
+  - add ideas to [Architectural Diagram Miro](https://miro.com/app/board/uXjVHUOhHB0=/) 
+- Keep working on features/issues assigned 
 
 ---

@@ -127,7 +127,7 @@ Members:
 - Everyone contribute to [AI standard documentation](https://docs.google.com/document/d/1P5eOXXDR3PsoBVFp4uzcC5guoWNm4XAH_Vw1BdtXAtU/edit?tab=t.0)
   - contribute at least 2 notes
 - Keep working on issues and features and feel free to open PR to check for errors and tests but we will review everything to pull everything into main on sunday meeting
-- Review [rubric](rubric link). Have a strong understanding of what needs to get done.
+- Review [rubric](../SWE%20Rubric.pdf). Have a strong understanding of what needs to get done.
 
 
 ### Tasks to Complete

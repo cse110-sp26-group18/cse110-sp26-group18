@@ -1,5 +1,7 @@
 # Team 18’s Review of Team 16’s Progress
 
+[link to google doc](https://docs.google.com/document/d/1eqkIZbOflexJCwxneEtnjLm3iEQK1-CCAE982ng6lo0/edit?tab=t.0) 
+
 ## Process & Agile Method 
 
 ### This Worked Well 
